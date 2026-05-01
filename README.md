@@ -1,4 +1,4 @@
-# Petrodollar Recycling & U.S. Treasury Yields: A Quantitative Analysis
+# Petrodollar Recycling & U.S. Treasury Yields
 
 Time series analysis examining the relationship between Middle Eastern 
 oil revenues and U.S. Treasury yields over 2000-2024.
