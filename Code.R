@@ -5,7 +5,7 @@ library(forecast)
 library(tseries)
 library(lubridate)
 
-#Data acquistion
+#Data acquisition
 getSymbols(c("DGS10", "DCOILBRENTEU"), src = "FRED",
            from = "2000-01-01", to = "2024-12-31")
 
